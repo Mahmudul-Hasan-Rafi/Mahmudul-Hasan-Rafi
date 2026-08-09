@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/express.js-a277ff.svg?style=for-the-badge&logo=express&logoColor=black" alt="Express.js"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js-ffd9a0.svg?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vite-a277ff.svg?style=for-the-badge&logo=vite&logoColor=black" alt="Vite"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb-a277ff.svg?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/mongodb-ffd9a0.svg?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
 </p>
 
 ---
