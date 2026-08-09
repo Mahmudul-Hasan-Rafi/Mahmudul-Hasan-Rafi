@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Mahmudul+Hasan+(Rafi);sudo+access%3A+granted;compiling+willpower.exe...;print(%22still+debugging%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Mahmudul+Hasan+(Rafi);compiling+willpower.exe...;print(%22still+debugging%22)" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00FFFF?style=flat-square&labelColor=161b22" alt="Status" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/☕_COFFEE-CRITICAL-ff4a5a?style=flat-square&labelColor=161b22" alt="Coffee" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🌐_B_TABS-47_OPEN-00FFFF?style=flat-square&labelColor=161b22" alt="Tabs" />
 </p>
 <hr />
 
@@ -49,18 +48,18 @@ A Computer Science student trying to survive on caffeine ☕, Stack Overflow �
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sudo-shourov&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudo-shourov&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Mahmudul-Hasan-Rafi&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahmudul-Hasan-Rafi&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudo-shourov&theme=aura&hide_border=false" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mahmudul-Hasan-Rafi&theme=aura&hide_border=false" width="97%" alt="GitHub Streak" />
 </p
 
 ---
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=sudo-shourov&icon=0&color=0" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Mahmudul-Hasan-Rafi&icon=0&color=0" alt="Profile Views" />
   </a>
 </div>
