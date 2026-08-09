@@ -61,6 +61,6 @@
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Mahmudul-Hasan-Rafi&icon=5&color=00ffff" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Mahmudul-Hasan-Rafi&icon=5&color=a277ff" alt="Profile Views" />
   </a>
 </div>
