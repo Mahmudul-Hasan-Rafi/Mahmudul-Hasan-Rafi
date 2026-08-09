@@ -22,16 +22,12 @@
 
 
 ## 🌐 Connect with Me
-<p align="left" gap="2">
-  <a href="https://www.facebook.com/mh.rafi.3558" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=white&labelColor=a277ff" alt="Facebook"/>
-  </a>
-   <a href="https://linkedin.com/in/dev-mahmudul-hasan-rafi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-61ffca?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1c1c" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mhrafi551@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ffca85" alt="Email"/>
-  </a>
+<p align="left">
+  <a href="https://www.facebook.com/mh.rafi.3558" target="_blank"><img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=white&labelColor=a277ff" alt="Facebook"/></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/dev-mahmudul-hasan-rafi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-61ffca?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1c1c" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:mhrafi551@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ffca85" alt="Email"/></a>
 </p>
 
 ---
