@@ -33,7 +33,6 @@
 ---
 
 ## 💻 Tech Stack
-### 🌐 Frontend & Web3
 <p align="left">
   <img src="https://img.shields.io/badge/html5-ffd9a0.svg?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript-a277ff.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;&nbsp;
