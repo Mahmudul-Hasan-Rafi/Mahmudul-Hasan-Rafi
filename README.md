@@ -52,9 +52,7 @@
   <img src="https://github-readme-stats.shion.dev/api?username=Mahmudul-Hasan-Rafi&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahmudul-Hasan-Rafi&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mahmudul-Hasan-Rafi&theme=aura&hide_border=false" width="97%" alt="GitHub Streak" />
-</p>
+
 
 ---
 
